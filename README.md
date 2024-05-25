@@ -1,6 +1,6 @@
 # gotong-royong
 
-Tidak semua orang bisa bekerja sama dalam team, sebagai contoh kasus sederhana:
+Tidak semua orang bisa bekerja sama dalam team, sebagai ciri di dalam di kita suka sekali bertanya-tanya:
 * Kenapa ya kalo saya menghubungi si A jawabannya lama dan responnya apa adanya. 
 * Kenapa ya kalo minta bantuan ke si A susah banget
 
