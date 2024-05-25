@@ -1,8 +1,10 @@
 # gotong-royong
 
-Tidak semua orang bisa bekerja sama dalam team, sebagai contoh kasus sederhana.
+Tidak semua orang bisa bekerja sama dalam team, sebagai contoh kasus sederhana:
+* Kenapa ya kalo saya menghubungi si A jawabannya lama dan responnya apa adanya. 
+* Kenapa ya kalo minta bantuan ke si A susah banget
 
-Kenapa ya kalo saya menghubungi si A jawabannya lama dan responnya apa adanya. Coba kita koreksi diri kita sendiri:
+Coba kita koreksi diri kita sendiri:
 1. Apakah saya hanya mementingkan dan mendahukukan kepentingan dan keperluan saya sendiri saja?
 2. Apakah saya sudah berkontribusi untuk membantu kepentingan team?
 3. Apakah saya sering membantu kepentingan rekan satu team?
