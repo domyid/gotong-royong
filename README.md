@@ -1,0 +1,2 @@
+# gotong-royong
+Jangan Egois
